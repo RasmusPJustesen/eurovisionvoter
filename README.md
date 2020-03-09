@@ -1,1 +1,1 @@
-
+npm install react-redux react-router-dom
